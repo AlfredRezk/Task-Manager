@@ -1,7 +1,5 @@
 <h2 align="center">Task Manager App</h2>
-<br/> 
 <img src="./Design/cover.jpg" width="100%"/>
-
 
 ### 1. Description
 ---

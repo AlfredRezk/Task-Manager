@@ -7,9 +7,7 @@
 
 <br/>
  <img src="./Design/MULTI-2.png" width="100%"/>
-<br/>
  <img src="./Design/demo.gif" width="100%"/>
-<br/>
 
 ### 2. Features
 ---
